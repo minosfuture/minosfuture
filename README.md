@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @minosfuture
-- 👀 I’m interested in linux, Rust, eBPF, and system performance
-- 🌱 I’m currently learning sched_ext
+- 👀 I’m interested in linux, GPU, Rust, and system performance
+- 🌱 I’m currently learning sched_ext, model optimization, etc.
 - 💞️ I’m looking to collaborate on OSS
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
+- 📫 minos.future@gmail.com
 - ⚡ Fun fact: my cat used to write code for me. I ask AI to debug it. AI says meow.
 
 <!---
