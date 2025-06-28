@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minosfuture
-- 👀 I’m interested in linux, GPU, Rust, and system performance
-- 🌱 I’m currently learning sched_ext, model optimization, etc.
+- 👀 I’m interested in LLM inference, linux, GPU, Rust, and system performance
+- 🌱 I’m currently learning vLLM, model optimization, etc.
 - 💞️ I’m looking to collaborate on OSS
 - 📫 minos.future@gmail.com
 - ⚡ Fun fact: my cat used to write code for me. I ask AI to debug it. AI says meow.
